@@ -1,0 +1,60 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573136627439@s.whatsapp.net',
+    fromMe: false,
+    id: '0F89CFD6469A14AE0324A0D23B21ACD3',
+    participant: undefined
+  },
+  messageTimestamp: 1692132863,
+  pushName: 'Esteban G🎸🎨🐶🤖⚡',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que es Sasoftco',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que es Sasoftco',
+  from: '573136627439'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573136627439@s.whatsapp.net',
+    fromMe: false,
+    id: '38675ABC5020815E5848D9C1A8EB101D',
+    participant: undefined
+  },
+  messageTimestamp: 1692133479,
+  pushName: 'Esteban G🎸🎨🐶🤖⚡',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573136627439'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573136627439@s.whatsapp.net',
+    fromMe: false,
+    id: '7FCDDCC5DB6383C8B270513F90C29F23',
+    participant: undefined
+  },
+  messageTimestamp: 1692134082,
+  pushName: 'Esteban G🎸🎨🐶🤖⚡',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sigues vivo??',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sigues vivo??',
+  from: '573136627439'
+}
